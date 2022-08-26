@@ -1,2 +1,2 @@
-# wordpress-theme-structure
-A quick empty wordpress theme structure to download and start building.
+# Wordpress Template Structure
+Have to create tons of files and folders everytime. Not anymore.
