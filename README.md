@@ -1,5 +1,5 @@
 # Wordpress Template Structure
-Have to create tons of files and folders everytime. Not anymore.
+Had to create tons of files and folders everytime. Not anymore.
 ```bash
 |-- /css
   |-- main.css
